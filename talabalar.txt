@@ -1,0 +1,5 @@
+Ali,85
+Vali,72
+Sardor,91
+Madina,78
+Aziza,95
